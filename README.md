@@ -11,8 +11,8 @@ Skills:
 
 
 ## Projects
--Git Basics
--DevOps Lab 1
+- Git Basics
+- DevOps Lab 1
 
 
 
