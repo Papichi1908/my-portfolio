@@ -8,3 +8,8 @@ Skills:
 - Bash Scripting
 - Git
 - DevOps Fundamentals
+
+
+## Projects
+-DevOps Lab 1
+
