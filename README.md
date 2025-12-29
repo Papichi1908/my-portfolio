@@ -9,5 +9,12 @@ Skills:
 - Git
 - DevOps Fundamentals
 
+
 ## Projects
 -Git Basics
+-DevOps Lab 1
+
+
+
+
+>
